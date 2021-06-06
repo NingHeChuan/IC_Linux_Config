@@ -1,2 +1,3 @@
 # IC_Linux_Config
-ic config
+ic config 
+	linux config
